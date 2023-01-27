@@ -1,0 +1,13 @@
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\bin\Debug\netcoreapp3.1\CircuitBreaker.exe
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\bin\Debug\netcoreapp3.1\CircuitBreaker.deps.json
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\bin\Debug\netcoreapp3.1\CircuitBreaker.runtimeconfig.json
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\bin\Debug\netcoreapp3.1\CircuitBreaker.runtimeconfig.dev.json
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\bin\Debug\netcoreapp3.1\CircuitBreaker.dll
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\bin\Debug\netcoreapp3.1\CircuitBreaker.pdb
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\obj\Debug\netcoreapp3.1\CircuitBreaker.csprojAssemblyReference.cache
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\obj\Debug\netcoreapp3.1\CircuitBreaker.AssemblyInfoInputs.cache
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\obj\Debug\netcoreapp3.1\CircuitBreaker.AssemblyInfo.cs
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\obj\Debug\netcoreapp3.1\CircuitBreaker.csproj.CoreCompileInputs.cache
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\obj\Debug\netcoreapp3.1\CircuitBreaker.dll
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\obj\Debug\netcoreapp3.1\CircuitBreaker.pdb
+C:\Users\Harvinder_Camber\source\repos\CircuitBreaker\obj\Debug\netcoreapp3.1\CircuitBreaker.genruntimeconfig.cache
